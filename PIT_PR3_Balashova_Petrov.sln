@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIT_PR3_Balashova_Petrov", "PIT_PR3_Balashova_Petrov\PIT_PR3_Balashova_Petrov.csproj", "{0C82844D-AF4E-4497-A884-86EB07AD0417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C82844D-AF4E-4497-A884-86EB07AD0417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C82844D-AF4E-4497-A884-86EB07AD0417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C82844D-AF4E-4497-A884-86EB07AD0417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C82844D-AF4E-4497-A884-86EB07AD0417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8239C95C-F155-4236-B57C-A07C187BE626}
+	EndGlobalSection
+EndGlobal
